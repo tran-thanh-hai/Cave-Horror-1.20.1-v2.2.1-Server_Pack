@@ -1,0 +1,17 @@
+{
+	id: "f2b9950e-825f-3ef7-a6be-85e2f53d678c"
+	type: "player"
+	player_name: "Anonmouse"
+	ranks: {
+		f2b9950e-825f-3ef7-a6be-85e2f53d678c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Anonmouse"
+		"ftbteams:description": ""
+		"ftbteams:color": "#597DFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

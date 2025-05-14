@@ -1,0 +1,17 @@
+{
+	id: "3eaf9c5f-110c-366f-bb65-3f0a4ff52881"
+	type: "player"
+	player_name: "secgay"
+	ranks: {
+		3eaf9c5f-110c-366f-bb65-3f0a4ff52881: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "secgay"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFF259"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

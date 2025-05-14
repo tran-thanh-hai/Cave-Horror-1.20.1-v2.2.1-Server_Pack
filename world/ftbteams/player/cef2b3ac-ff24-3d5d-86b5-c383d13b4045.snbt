@@ -1,0 +1,17 @@
+{
+	id: "cef2b3ac-ff24-3d5d-86b5-c383d13b4045"
+	type: "player"
+	player_name: "Umi"
+	ranks: {
+		cef2b3ac-ff24-3d5d-86b5-c383d13b4045: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Umi"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF6E59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

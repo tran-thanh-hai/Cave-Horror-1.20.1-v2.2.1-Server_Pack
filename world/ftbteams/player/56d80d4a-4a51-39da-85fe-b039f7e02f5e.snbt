@@ -1,0 +1,17 @@
+{
+	id: "56d80d4a-4a51-39da-85fe-b039f7e02f5e"
+	type: "player"
+	player_name: "ThoSanTreEm"
+	ranks: {
+		56d80d4a-4a51-39da-85fe-b039f7e02f5e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ThoSanTreEm"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FD59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

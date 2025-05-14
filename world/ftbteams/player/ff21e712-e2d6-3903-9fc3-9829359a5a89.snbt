@@ -1,0 +1,17 @@
+{
+	id: "ff21e712-e2d6-3903-9fc3-9829359a5a89"
+	type: "player"
+	player_name: "minh(mire)"
+	ranks: {
+		ff21e712-e2d6-3903-9fc3-9829359a5a89: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "minh(mire)"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF5D"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

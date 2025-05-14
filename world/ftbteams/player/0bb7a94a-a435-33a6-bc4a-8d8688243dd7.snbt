@@ -1,0 +1,17 @@
+{
+	id: "0bb7a94a-a435-33a6-bc4a-8d8688243dd7"
+	type: "player"
+	player_name: "vuzisme"
+	ranks: {
+		0bb7a94a-a435-33a6-bc4a-8d8688243dd7: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "vuzisme"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6059FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

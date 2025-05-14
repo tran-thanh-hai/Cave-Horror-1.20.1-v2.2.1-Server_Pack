@@ -1,0 +1,17 @@
+{
+	id: "5626b921-46f8-31d4-a91b-497858937f62"
+	type: "player"
+	player_name: "Memev0v"
+	ranks: {
+		5626b921-46f8-31d4-a91b-497858937f62: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Memev0v"
+		"ftbteams:description": ""
+		"ftbteams:color": "#8759FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

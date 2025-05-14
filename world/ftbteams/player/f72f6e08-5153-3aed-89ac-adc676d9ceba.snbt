@@ -1,0 +1,17 @@
+{
+	id: "f72f6e08-5153-3aed-89ac-adc676d9ceba"
+	type: "player"
+	player_name: "whiii"
+	ranks: {
+		f72f6e08-5153-3aed-89ac-adc676d9ceba: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "whiii"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5985FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
